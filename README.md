@@ -1,0 +1,1 @@
+Set reddit client id, secret, and user agent in "combined.py" to run code.
