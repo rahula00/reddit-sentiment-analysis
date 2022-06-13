@@ -1,6 +1,6 @@
 <h1>Sentiment Sentiment Analysis: Reddit Headlines and Comments</h1>
 
-<p>We use pre-trained VADER models in Python's natural language toolkit(NLTK) to perform sentiment analysis on headlines and comments of Reddit posts. Our testing is done across 5 subreddits, with 1000 posts/headlines for each subreddit and 100 comments for each post. We find that posts with positive headlines tend to have a larger proportion of positive comments, while posts with negative headlines tend to have a larger proportion of negative comments. </p>
+<p>We use pre-trained VADER models in Python's natural language toolkit(NLTK) to perform sentiment analysis on headlines and comments of Reddit posts. Our testing is done across 5 subreddits, with 1,000 posts/headlines for each subreddit and 100 comments for each post, for a total of 500,000 comments and 5,000 headlines. We find that posts with positive headlines tend to have a larger proportion of positive comments, while posts with negative headlines tend to have a larger proportion of negative comments. </p>
 
 <h4>Running Code</h4>
 <ul>
